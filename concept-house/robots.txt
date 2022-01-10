@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /some-path/
+
+
+
+Sitemap: https://furnitureideas.github.io/concept-house/sitemap.xml
+Sitemap: https://furnitureideas.github.io/concept-house/hasil.xml
